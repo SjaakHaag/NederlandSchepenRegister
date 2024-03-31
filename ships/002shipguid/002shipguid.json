@@ -13,10 +13,7 @@
         "bouwjaar": "jouw_bouwjaar",
         "bouwnummer": "jouw_bouwnummer",
         "shipmotor": "shipmotor1",
-        "thuishaven": {
-            "id": "thuishaven_id",
-            "naam": "thuishaven_naam",
-            "land": "thuishaven_land"
-        }
+        "thuisHaven": {"GUID":"007havenguid"},
+        "eigenaar": {"GUID":"012ownerguid"}
     }
 }
