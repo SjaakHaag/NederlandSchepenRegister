@@ -1,0 +1,9 @@
+{
+    "motor": {
+        "id": "yourmotorid",
+        "fabrieksnummer": "my_motor_fabrieksnummer",
+        "type": "myMotor_type",
+        "vermogen": "motor_vermogen",
+        "fabrikantId": "008betrokkeneguid"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ship": {
+        "id": "jouw_id",
+        "name": "jouw_naam",
+        "ISN": "jouw_ISN-nummer",
+        "brutoTonnage": "jouw_brutotonnage",
+        "nettoTonnage": "jouw_nettotonnage",
+        "beschrijving": "jouw_beschrijving",
+        "scheepsType": "jouw_scheepstype",
+        "inrichting": "jouw_inrichting",
+        "rompMateriaal": "jouw_rompmateriaal",
+        "brandmerk": "jouw_brandmerk",
+        "bouwjaar": "jouw_bouwjaar",
+        "bouwNummer": "jouw_bouwnummer",
+        "thuisHaven": {"ref":"010thuishavenguid"},
+        "eigenaar": {"ref":"011ownerguid"}
+    }
+}

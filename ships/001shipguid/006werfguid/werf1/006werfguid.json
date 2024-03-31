@@ -1,0 +1,7 @@
+{
+    "werf": {
+        "id": "werf_id",
+        "naam": "werf_naam",
+        "vestigingsPlaats": "werf_vestigingsplaats"
+    }
+}

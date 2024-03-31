@@ -1,0 +1,25 @@
+{
+    "bareboatOut": [
+        {
+            "schipBuitenland": "buitenlandse_schip_naam",
+            "rederBuitenland": {
+                "name": "buitenlandse_reder_naam",
+                "address": "buitenlandse_reder_adres",
+                "vertegenwoordiging": "buitenlandse_reder_vertegenwoordiging"
+            }
+        }, 
+        {
+            "registerBuitenland": {
+                "Id": "bareboat_id",
+                "land": "bareboat_land",
+                "nummerTeboekstelling": "bareboat_nummer",
+                "datumTeboekstelling": "bareboat_datum",
+                "beheerder": {
+                    "id": "beheerder_id",
+                    "naam": "beheerder_naam",
+                    "vestigingsPlaats": "beheerder_vestigingsplaats"
+                }
+        }
+    }
+    ]
+}
