@@ -12,7 +12,7 @@
         "brandmerk": "jouw_brandmerk",
         "bouwjaar": "jouw_bouwjaar",
         "bouwNummer": "jouw_bouwnummer",
-        "thuisHaven": {"ref":"010thuishavenguid"},
+        "thuisHaven": {"ref":"007havenguid"},
         "eigenaar": {"ref":"011ownerguid"}
     }
 }

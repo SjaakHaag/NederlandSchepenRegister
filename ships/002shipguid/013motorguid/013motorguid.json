@@ -2,7 +2,7 @@
     "motor": {
         "id": "yourmotorid",
         "fabrieksnummer": "my_motor_fabrieksnummer",
-        "type": "myMotor_type",
+        "type": "diesel",
         "vermogen": "motor_vermogen",
         "fabrikantId": "008betrokkeneguid"
     }

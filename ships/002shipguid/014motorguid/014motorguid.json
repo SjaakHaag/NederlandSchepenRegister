@@ -2,7 +2,7 @@
     "motor": {
         "id": "yourmotoriduniek",
         "fabrieksnummer": "my_motor_fabrieksnummer",
-        "type": "myMotor_type",
+        "type": "electro",
         "vermogen": "motor_vermogen",
         "fabrikantId": "008betrokkeneguid"
     }
