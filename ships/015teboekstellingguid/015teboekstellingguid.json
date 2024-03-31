@@ -1,0 +1,13 @@
+{
+    "teboekstelling": {
+        "Id": "uwreferentie",
+        "land": "Nederland",
+        "nummerTeboekstelling": "nummer",
+        "datumTeboekstelling": "datum",
+        "beheerder": {
+            "id": "beheerder_id",
+            "naam": "beheerder_naam",
+            "vestigingsPlaats": "beheerder_vestigingsplaats"
+        }
+    }
+}

@@ -1,10 +1,10 @@
 {
     "ship": {
         "id": "jouw_id",
-        "name": "jouw_naam",
-        "IMO-nummer": "9870230945",
-        "brutotonnage": { "amout": 4, "unit": "ton"},       
-        "nettotonnage": "jouw_nettotonnage",
+        "namen": [{"naam": "nederlandse_naam", "naam": "buitenlandse_naam"}],
+        "ISN": "jouw_ISN-nummer",
+        "brutoTonnage": { "aantal": 8, "eenheid": "ton"},       
+        "nettoTonnage": { "aantal": 6, "eenheid": "ton"},       
         "beschrijving": "jouw_beschrijving",
         "scheepstype": "jouw_scheepstype",
         "inrichting": "jouw_inrichting",

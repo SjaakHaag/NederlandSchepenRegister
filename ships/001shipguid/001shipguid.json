@@ -1,10 +1,10 @@
 {
     "ship": {
         "id": "jouw_id",
-        "name": "jouw_naam",
+        "namen": [{"naam": "nederlandse_naam", "naam": "buitenlandse_naam"}],
         "ISN": "jouw_ISN-nummer",
-        "brutoTonnage": "jouw_brutotonnage",
-        "nettoTonnage": "jouw_nettotonnage",
+        "brutoTonnage": { "aantal": 8, "eenheid": "ton"},       
+        "nettoTonnage": { "aantal": 6, "eenheid": "ton"},       
         "beschrijving": "jouw_beschrijving",
         "scheepsType": "jouw_scheepstype",
         "inrichting": "jouw_inrichting",
