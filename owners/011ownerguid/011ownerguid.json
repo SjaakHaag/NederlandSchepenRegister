@@ -1,7 +1,7 @@
 {
     "owner": {
         "id": "KVK_Owner1",
-        "type": "eigenaar_type",
-        "dagtekening": "eigenaar_dagtekening"
+        "type": "reder",
+        "dagtekening": "2023-04-04"
     }
 }

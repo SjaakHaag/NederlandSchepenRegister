@@ -1,13 +1,13 @@
 {
     "teboekstelling": {
-        "Id": "uwreferentie",
+        "Id": "bij ISN nummer",
         "land": "Nederland",
-        "nummerTeboekstelling": "nummer",
-        "datumTeboekstelling": "datum",
+        "nummerTeboekstelling": "nummer1",
+        "datumTeboekstelling": "2024-01-30",
         "beheerder": {
             "id": "beheerder_id",
-            "naam": "beheerder_naam",
-            "vestigingsPlaats": "beheerder_vestigingsplaats"
+            "naam": "Kees de Man",
+            "vestigingsPlaats": "RegisterHoek"
         }
     }
 }
